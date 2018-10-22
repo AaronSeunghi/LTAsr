@@ -1,0 +1,9 @@
+pandas
+progressbar2
+numpy
+tensorflow-gpu==1.11.0
+scipy
+python_speech_features
+pyxdg
+six
+tables
